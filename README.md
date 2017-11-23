@@ -1,4 +1,4 @@
-# lem_in
+# lem-in
 School 42 project aimed at implementing Breadth First Search Algorithm and working with graphs
 
 ### Project description
